@@ -1,4 +1,4 @@
-<center>IDL 程式語言（作業 04）（取檔名為 HW04_學號.pro）</center>
+<p align="center">IDL 程式語言（作業 04）（取檔名為 HW04_學號.pro）</p>
 
 題目：
 1. 從課程網頁下載 Wind 衛星的磁場資料檔（wind_mfi.dat）和電漿資料檔（wind_swe.dat），這些資料檔是以 ASCII 格式表示，請將這些資料檔轉成IDL 專用的 SAVE 格式，取名為 wind_mfi.save 和 wind_swe.save，如果資料檔中包含一些很大或很小的不合理值，則填充無法定義的數（NaN）。（100%）  

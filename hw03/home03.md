@@ -1,4 +1,4 @@
-<center>IDL 程式語言（作業 03）（取檔名為 HW03_學號.pro）</center>
+<p align="center">IDL 程式語言（作業 03）（取檔名為 HW03_學號.pro）</p>
 
 題目：
 以下列指令敘述讀取 marsglobe.jpg 檔案中的真彩影像且儲存為變數 img1 :file = FILEPATH(‘marsglobe.jpg’, SUBDIRECTORY=[‘examples’,’data’])  
