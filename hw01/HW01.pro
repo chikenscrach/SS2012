@@ -1,15 +1,19 @@
+; 第一題
 a1 = 0
 for i = 1, 5000 do a1 = a1 + 1./i
 print, a1
 
+; 第二題
 a2 = 0
 for i = 1, 50000 do a2 = a2 + i
 print, a2
 
+; 第三題
 a3 = 0LL
 a3 = 70LL + 120LL * 2LL^8 + 190LL * 2LL^16
 print, a3
 
+; 第四題
 a4 = 1
 b1 = 1
 b2 = 1
