@@ -7,6 +7,6 @@
     
     運用此公式繪製下列圖形，並儲存為 pause.ps 檔。如果你所使用的電腦平台是 PC Windows，則需要下載一種 postscript viewer，才能觀看 pause.ps 檔。（100%）  
 
-    <p align="center" width="100%"><img width="33%" src="https://github.com/chikenscrach/SS2012/blob/main/hw05/image/img-2.png"></p>
+    <p align="center" width="100%"><img src="https://github.com/chikenscrach/SS2012/blob/main/hw05/image/img-2.png"></p>
 
 **（注意：下次上課前把 pro 檔繳交至新 EE 系統，不需要繳交 pause.ps）**
